@@ -56,13 +56,16 @@
 
 ## 👨‍💻 About Me
 
-I am a Computer Science Engineering senior with a core specialization in **Cloud Infrastructure, SRE principles, and Linux Systems Engineering**.
+I am a Computer Science Engineering student with strong interests and hands-on skills in **Cloud Infrastructure, SRE principles, and Linux Systems Engineering**.
 
-I focus on making distributed systems resilient, observable, and automated under load. Over the past few years, I have moved from theoretical concepts to production-grade implementations — mastering **Linux enterprise distributions, AWS multi-tier architectures, Kubernetes orchestration, and declarative CI/CD pipelines**. 
+I focus on making distributed systems resilient, observable, and automated under load. Over the past few years, I have moved from theoretical concepts to production-grade implementations — mastering **Linux enterprise distributions, AWS multi-tier architectures, Kubernetes orchestration, and declarative CI/CD pipelines**.
+
+- 📫 **How to reach me:** [prasadkelkar822@gmail.com](mailto:prasadkelkar822@gmail.com) | [linkedin.com/in/prasad-k-a39833204](https://linkedin.com/in/prasad-k-a39833204)
+- ⚡ **Fun Fact:** When I'm not optimizing Kubernetes manifests or writing pipelines, you'll probably find me on the cricket pitch or discussing business and industrial tech!
 
 ### 🛠️ Industry Experience (Global IT Providers)
 During my 6-month DevOps & Systems internship, I operated on production-grade infrastructure:
-- **Server Hardening:** Secured 15+ hybrid Linux & AWS hosts (**Ubuntu, OpenSUSE, VPC/IAM**) enforcing CIS Benchmark benchmarks, least-privilege sudoers configurations, and centralized LDAP auth.
+- **Server Hardening:** Secured 15+ hybrid Linux & AWS hosts (**Ubuntu, OpenSUSE, VPC/IAM**) enforcing CIS Benchmark standards, least-privilege sudoers configurations, and centralized LDAP authentication.
 - **Container Operations:** Managed 20+ container runtimes using **Podman Pods** and **containerd**, configuring systemd automated lifecycle units to sustain 99.9% availability.
 - **Infrastructure Automation:** Engineered 10+ modular Bash automation utilities integrated with Zenity GUI dialogs for VM snapshots and rollouts, trimming manual operational overhead by 40%.
 
