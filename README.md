@@ -76,7 +76,27 @@ During my 6-month DevOps & Systems internship, I operated on production-grade in
 | **SRE Practices & Soft Skills** | Incident Management, Root-Cause Analysis, Cross-Functional Collaboration, Systems Troubleshooting |
 
 ---
+---
 
+## 🚀 Featured Engineering Projects
+
+### 🛡️ [OverloadZero: Zero-Downtime Burst Resilience Engine](https://github.com/prasadkelkar2003/OverloadZero)
+> **The Problem:** Every semester, university result portals crash because thousands of students hit "Refresh" at the exact same second — creating a classic *thundering herd* catastrophe that starves database connections.  
+> **The Architecture:** Built as **FlashShield**, a multi-tiered SRE resilience engine running on Kubernetes. It intercepts sudden traffic shockwaves using edge rate limiting, sub-minute **Horizontal Pod Autoscaling (HPA)**, a pre-warmed **Redis L1 cache**, and automated **HTTP 429 virtual queues** — dropping lookup latency from **45ms down to <2ms** with 99.9% uptime.  
+> 🔗 **Explore Repo:** [`prasadkelkar2003/OverloadZero`](https://github.com/prasadkelkar2003/OverloadZero)
+
+<br/>
+
+### ⚡ [QR-Share: Zero-Touch Cloud-Native GitOps Engine](https://github.com/prasadkelkar2003/Project-QR-Share)
+> **The Problem:** Manual deployments are slow, error-prone, and introduce pipeline friction when pushing code from local workstations to production servers.  
+> **The Architecture:** A fully declarative GitOps delivery engine. Push code to GitHub, and Jenkins instantly triggers an automated pipeline — executing security scans, containerizing via Docker, and executing zero-downtime rolling updates to a live Kubernetes cluster. Backed by **MinIO S3 Object Storage** and Python Boto3 for secure, ephemeral QR asset sharing with non-root runtime security.  
+> 🔗 **Explore Repo:** [`prasadkelkar2003/Project-QR-Share`](https://github.com/prasadkelkar2003/Project-QR-Share)
+
+<br/>
+
+<p align="left">
+  <i>👉 Looking for more? Check out my other infrastructure experiments, automation scripts, and cluster manifests in my <a href="https://github.com/prasadkelkar2003?tab=repositories"><b>Repositories Tab</b></a>.</i>
+</p>
 <p align="center">
   ⚡ <i>"Committed to building resilient, automated, zero-downtime cloud systems."</i>
 </p>
