@@ -3,17 +3,6 @@
 > **Aspiring Cloud & DevOps Engineer | AWS Certified Solutions Architect | RHCSA**  
 > Final-Year B.Tech CSE (Healthcare Informatics) @ VIT Bhopal (Class of 2026)
 
-<p align="left">
-  <a href="mailto:prasadkelkar822@gmail.com">
-    <img src="https://img.shields.io/badge/Email-prasadkelkar822%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/prasad-k-a39833204" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-/in/prasad--k-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/prasadkelkar2003" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-/prasadkelkar2003-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
 
 <!-- Top Core Skills Badges -->
 <p align="left">
@@ -85,15 +74,6 @@ During my 6-month DevOps & Systems internship, I operated on production-grade in
 | **Operating Systems & Linux** | RHEL 9, Ubuntu, Rocky Linux, OpenSUSE, Bash Scripting, systemd |
 | **CI/CD & Version Control** | Jenkins (Declarative Pipelines, Dynamic Agents), Git, GitHub, Trivy Scanning |
 | **SRE Practices & Soft Skills** | Incident Management, Root-Cause Analysis, Cross-Functional Collaboration, Systems Troubleshooting |
-
----
-
-## 📊 GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasadkelkar2003&show_icons=true&theme=tokyonight&count_private=true" alt="Prasad's GitHub Stats" height="175px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadkelkar2003&layout=compact&theme=tokyonight" alt="Top Languages" height="175px" />
-</p>
 
 ---
 
