@@ -21,22 +21,22 @@
 
 <p align="left">
   <!-- Red Hat Certified System Administrator -->
-  <a href="https://drive.google.com/file/d/1rRQISk8-kvrfdOWG26H-Joi4yCVCu2q_/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1rRQISk8-kvrfdOWG26H-Joi4yCVCu2q_/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Red_Hat_Certified_System_Administrator_(RHCSA)-CC0000?style=for-the-badge&logo=red-hat&logoColor=white" alt="RHCSA" />
   </a>
   
   <!-- AWS Solutions Architect Associate -->
-  <a href="https://drive.google.com/file/d/1mDi7NSJ04jX_mdR8Po_BAc6668v0dgQA/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1mDi7NSJ04jX_mdR8Po_BAc6668v0dgQA/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/AWS_Certified_Solutions_Architect_–_Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS SAA" />
   </a>
 
   <!-- Certified Linux Administrator -->
-  <a href="https://drive.google.com/file/d/1noSPWTHvnKzo7JrDVc_PIatamf20PxUg/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1noSPWTHvnKzo7JrDVc_PIatamf20PxUg/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Certified_Linux_Administrator_(LX101)-0078D4?style=for-the-badge&logo=linux&logoColor=white" alt="CLA" />
   </a>
 
   <!-- Certified Container Administrator -->
-  <a href="https://www.credly.com" target="_blank">
+  <a href="https://drive.google.com/file/d/1p71I4j087lWcJ9cZwsaqIzETd9i79QJQ/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Certified_Container_Administrator_(LX102)-0DB7ED?style=for-the-badge&logo=docker&logoColor=white" alt="CCA" />
   </a>
 </p>
